@@ -1,6 +1,6 @@
 # Social Food Delivery System
 ## Objective
-Social Serving Food Delivery System(SSFDS) is a portal for a non-profit organisation (NPO)
+Social Food Delivery System(SFDS) is a portal for a non-profit organisation (NPO)
 that tracks leftover food from restaurants and hotels and uses it for several purposes.
 
 ## Setup and Build Instructions
